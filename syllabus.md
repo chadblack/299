@@ -64,10 +64,6 @@ Students are required to purchase the following books:
 
 All other readings will be available on Canvas.
 
-# Course Requirements
-
-
-
 # Course Objectives
 
 1. To introduce students to important some important moments in the
@@ -107,9 +103,19 @@ work turned in for this class must meet University standards for academic
 honesty. Any students unsure about how to apply these rules are urged to
 consult with me prior to turning in any written work. 
 
-**Office Hours:** Students are strongly encouraged to speak with me outside of class. The advantages of talking with me include: extra help on an assignment or preparation for an exam; clarification of materials covered in lecture, discussion of my comments on your work; discussion of this or related courses. I am available during office hours on a first-come, first-served basis; if you cannot come by during office hours, please contact me via email or phone and I will be happy to set up an appointment with you.
+**Office Hours:** Students are strongly encouraged to speak with me outside of
+class. The advantages of talking with me include: extra help on an assignment
+or preparation for an exam; clarification of materials covered in lecture,
+discussion of my comments on your work; discussion of this or related courses.
+I am available during office hours on a first-come, first-served basis; if you
+cannot come by during office hours, please contact me via email or phone and
+I will be happy to set up an appointment with you.
 
-**Changes:** I reserve the write to change this syllabus as the semester progresses. This is not a contract, but rather a document to guide expectations and clearly communicate weekly assignments. Please bring the syllabus with you to our class meetings. Or, keep up with it on the course website.
+**Changes:** I reserve the write to change this syllabus as the semester
+progresses. This is not a contract, but rather a document to guide expectations
+and clearly communicate weekly assignments. Please bring the syllabus with you
+to our class meetings. Or, keep up with it on the course website.
+
 
 
 
