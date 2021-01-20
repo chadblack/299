@@ -207,7 +207,8 @@ April 1 (Thursday)
 
 **Read:** 
 
-* Congo diary and Message to Tricontinental
+* David Seddon, "[Che Guevara in the
+  Congo](https://www.jacobinmag.com/2017/04/che-guevara-cuba-castro-congo-patrice-lumumba-colonialism)" and Message to Tricontinental
 
 # Week 12: Bolivia
 
@@ -215,13 +216,14 @@ April 6 (Tuesday)
 
 **Read:** 
 
-* Documents from Bolivia.
+* Watch Soderberg's Che Part II.
 
 April 8 (Thursday)
 
-**Read:** 
+* [National Security Archive declassified documents on the death of
+  Guevara](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB5/)
 
-* National Security Archive declassified documents on the death of Guevara.
+
 
 # Week 13: Afterlives
 
